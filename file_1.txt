@@ -1,0 +1,4 @@
+# soft-matrix
+Commit 2
+Date: 2023-02-23T22:35:37Z
+Add core module
