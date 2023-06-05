@@ -1,4 +1,0 @@
-# soft-matrix
-Commit 3
-Date: 2023-04-30T22:24:59Z
-Fix edge case
