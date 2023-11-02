@@ -1,4 +1,0 @@
-# soft-matrix
-Commit 6
-Date: 2023-10-08T07:39:05Z
-Add unit tests

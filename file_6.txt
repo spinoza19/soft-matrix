@@ -1,0 +1,4 @@
+# soft-matrix
+Commit 7
+Date: 2023-11-02T01:46:12Z
+Improve error handling
